@@ -2,8 +2,6 @@ this is the first file.
 pending another line. change something.
 Here is the third line to add.
 Using fast forward to merge.
-<<<<<<< Updated upstream
 Modify for test stash.
-=======
->>>>>>> Stashed changes
 Test the stash for 2 time.2 time.
+new change.
