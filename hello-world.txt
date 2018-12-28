@@ -3,3 +3,4 @@ pending another line. change something.
 Here is the third line to add.
 Using fast forward to merge.
 Modify for test stash.
+Test the stash for 2 time.2 time.
